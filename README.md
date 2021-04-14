@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Xanagit (Damien Ridereau)!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanagit)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **xanagit/xanagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
