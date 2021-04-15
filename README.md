@@ -3,7 +3,7 @@
 <img alt="PostrgeSQL" src="https://img.shields.io/badge/Database-Postgres%20SQL-336791?&style=for-the-badge&logo=PostgreSQL"/><img alt="DB2" src="https://img.shields.io/badge/Database-DB2-000000?&style=for-the-badge"/><img alt="Oracle" src="https://img.shields.io/badge/Database-Oracle-red?&style=for-the-badge&logo=Oracle&logoColor=white"/><img alt="MongoDB" src="https://img.shields.io/badge/Database-Mongo%20DB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
 
 
-<img alt="Junit" src="https://img.shields.io/badge/Testing-Junit-4e9a06?&style=for-the-badge"/><img alt="Mockito" src="https://img.shields.io/badge/Testing-Mockito-020202?&style=for-the-badge"/><img alt="Jest" src="https://img.shields.io/badge/Testing-Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white"/>
+<img alt="Junit&Mockito" src="https://img.shields.io/badge/Testing-Junit%20%2F%20Mockito-4e9a06?&style=for-the-badge"/><img alt="Jest" src="https://img.shields.io/badge/Testing-Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white"/>
 
 <img alt="Git" src="https://img.shields.io/badge/Tools-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white"/><img alt="IntellijIDEA" src="https://img.shields.io/badge/Tools-Intellij-f62e5b?&style=for-the-badge&logo=Intellij%20IDEA&logoColor=white"/><img alt="VSCode" src="https://img.shields.io/badge/Tools-VS%20Code-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/><img alt="Shell" src="https://img.shields.io/badge/Tools-Shell-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
 
