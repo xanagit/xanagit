@@ -1,4 +1,15 @@
-<img alt="Java" src="https://img.shields.io/badge/-Java-red?&style=for-the-badge&logo=java&logoColor=white"/><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-green?&style=for-the-badge&logo=Vue.js&logoColor=white" /><img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-77C0F7?&style=for-the-badge&logo=vuetify&logoColor=white" /><img alt="Vue.js" src="https://img.shields.io/badge/-Javascript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" /><img alt="Vue.js" src="https://img.shields.io/badge/-Typescript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-red?&style=for-the-badge&logo=java&logoColor=white"/><img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?&style=for-the-badge&logo=spring&logoColor=white" /><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white" /><img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-blue?&style=for-the-badge&logo=typescript&logoColor=white" /><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4eba88?&style=for-the-badge&logo=Vue.js&logoColor=white" /><img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-77C0F7?&style=for-the-badge&logo=vuetify&logoColor=white" />
+
+<img alt="PostrgeSQL" src="https://img.shields.io/badge/Database-Postgres%20SQL-336791?&style=for-the-badge&logo=PostgreSQL"/><img alt="DB2" src="https://img.shields.io/badge/Database-DB2-000000?&style=for-the-badge"/><img alt="Oracle" src="https://img.shields.io/badge/Database-Oracle-red?&style=for-the-badge&logo=Oracle&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/Database-My%20SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"/><img alt="MongoDB" src="https://img.shields.io/badge/Database-Mongo%20DB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
+
+
+<img alt="Junit" src="https://img.shields.io/badge/Testing-Junit-4e9a06?&style=for-the-badge"/><img alt="Mockito" src="https://img.shields.io/badge/Testing-Mockito-020202?&style=for-the-badge"/><img alt="Jest" src="https://img.shields.io/badge/Testing-Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white"/>
+
+<img alt="Git" src="https://img.shields.io/badge/Tools-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white"/><img alt="IntellijIDEA" src="https://img.shields.io/badge/Tools-Intellij-000000?&style=for-the-badge&logo=Intellij%20IDEA&logoColor=white"/><img alt="VSCode" src="https://img.shields.io/badge/Tools-VS%20Code-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/><img alt="Shell" src="https://img.shields.io/badge/Tools-Shell-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
+
+
+
+
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Damien (aka Xanagit)!
 
