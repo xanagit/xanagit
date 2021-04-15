@@ -1,7 +1,4 @@
-<img alt="Java" src="https://img.shields.io/badge/-Java-red?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-green?&style=for-the-badge&logo=Vue.js&logoColor=white" />
-<img alt="Vue.js" src="https://img.shields.io/badge/-Javascript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" />
-<img alt="Vue.js" src="https://img.shields.io/badge/-Typescript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-red?&style=for-the-badge&logo=java&logoColor=white"/><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-green?&style=for-the-badge&logo=Vue.js&logoColor=white" /><img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-blue?&style=for-the-badge&logo=vuetify&logoColor=white" /><img alt="Vue.js" src="https://img.shields.io/badge/-Javascript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" /><img alt="Vue.js" src="https://img.shields.io/badge/-Typescript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Damien (aka Xanagit)!
 
