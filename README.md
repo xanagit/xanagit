@@ -50,10 +50,6 @@ With **17 years** of experience in IT, including **4 years as DevOps Engineer**,
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xanagit&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xanagit&layout=compact&theme=radical&hide_border=true)
 
 ---
@@ -64,9 +60,3 @@ With **17 years** of experience in IT, including **4 years as DevOps Engineer**,
 - 📱 **Phone**: +33 (0) 6 64 89 81 92
 - 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/damien-ridereau/)
 - 🌐 **Location**: Nantes, France
-
----
-
-## 💡 Fun Facts
-
-- 🎯 **Passion**:
