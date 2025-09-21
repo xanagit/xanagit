@@ -41,28 +41,6 @@ With **17 years** of experience in IT, including **4 years as DevOps Engineer**,
 
 ---
 
-## 💼 Professional Journey
-
-### 🏢 Current Role: DevOps Engineer @ MAIF (2023 - Present)
-*Leading Azure infrastructure management for digital self-care experience*
-
-**Key Achievements:**
-- 🚀 Successfully migrated **20+ environments** to Azure with full automation
-- 🔒 Implemented centralized secret management with Azure Key Vault
-- 📊 Built comprehensive monitoring dashboards and alerting systems
-- 🛠️ Developed custom Node.js CLI tools for operational efficiency
-
-### 🏪 Previous: DevOps Engineer & Tech Lead @ U TECH (2016 - 2023)
-*French Supermarket Chain IT Department*
-
-**Highlights:**
-- ⚙️ Maintained hybrid Kubernetes platform serving 100+ applications
-- 👥 Led technical teams up to 6 members
-- 📈 Improved code quality standards: 70% test coverage, Sonar B rating minimum
-- 🌱 Managed Cloud IRIS community with 100+ readers
-
----
-
 ## 🏆 Certifications & Learning
 
 - 🎓 **CKA: Certified Kubernetes Administrator** (September 2025)
@@ -84,7 +62,7 @@ With **17 years** of experience in IT, including **4 years as DevOps Engineer**,
 
 - 📧 **Email**: contact@ridereau.fr
 - 📱 **Phone**: +33 (0) 6 64 89 81 92
-- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/YOUR_LINKEDIN)
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/damien-ridereau/)
 - 🌐 **Location**: Nantes, France
 
 ---
